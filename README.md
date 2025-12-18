@@ -25,6 +25,9 @@ OR run get_data.py in data/ folder with applicable changes.
 - Deterministic models
 - Python ≥ 3.9 recommended
 
+## 
+Main experiment is in src\experiment.py
+
 ## Environment setup (GPU)
 
 ```bash
